@@ -1,4 +1,11 @@
 # ExoMVC_Entreprise
+
+  
+## Requirements  
+os = Windows11  
+wampserver 3.30  -Php-8.1  MySQ-L8.0 Apache-2.4.51 MariaDb-10.6 PhpMyAdmin-5.2.0  
+Laravel 9.48.0  
+
 ExoMVC_Entreprise  
 Commencer par rentrer dans le projet en faisant "cd MVCentreprise".  
 Pour lancer le projet n'oubliez pas de créer une base de donnée reprenant l'exemple du .env.example.  
